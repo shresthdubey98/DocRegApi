@@ -1,0 +1,9 @@
+flask
+flask-mysqldb
+flask-restful
+bcrypt
+mysql-connector-python
+pyyaml
+pyjwt
+pillow
+requests
